@@ -1,0 +1,667 @@
+ID,Metrekare,OdaSayisi,BinaYasi,Sehir,Ilce,Fiyat
+1.1,70 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.250.000
+TL"
+1.2,80 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.750.000
+TL"
+1.3,90 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.450.000
+TL"
+1.4,180 m²,4 + 1,Sıfır Bina,İstanbul,"Fatih, Seyyid Ömer Mahallesi","7.000.000
+TL"
+1.5,150 m²,3 + 1,33 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","7.000.000
+TL"
+1.6,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.850.000
+TL"
+1.7,75 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.550.000
+TL"
+1.8,80 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Yedikule Mahallesi","2.100.000
+TL"
+1.9,75 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","1.725.000
+TL"
+1.10,75 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","3.000.000
+TL"
+1.11,100 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","1.550.000
+TL"
+1.12,95 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Seyyid Ömer Mahallesi","6.000.000
+TL"
+1.13,80 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.600.000
+TL"
+1.14,70 m²,5 + 3,40 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","9.100.000
+TL"
+1.15,175 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Nişanca Mahallesi","3.100.000
+TL"
+1.16,80 m²,2 + 1,48 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.150.000
+TL"
+1.17,80 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.099.000
+TL"
+1.18,80 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.500.000
+TL"
+1.19,70 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.325.000
+TL"
+1.20,110 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","2.000.000
+TL"
+1.21,150 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","5.500.000
+TL"
+1.22,110 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","2.250.000
+TL"
+2.1,85 m²,2 + 1,21 Yaşında,İstanbul,"Fatih, Balat Mahallesi","1.825.000
+TL"
+2.2,140 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","4.900.000
+TL"
+2.3,113 m²,2 + 1,25 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","6.750.000
+TL"
+2.4,90 m²,2 + 1,26 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.850.000
+TL"
+2.5,215 m²,4 + 2,27 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","6.250.000
+TL"
+2.6,90 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","2.100.000
+TL"
+2.7,95 m²,2 + 1,4 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","2.400.000
+TL"
+2.8,70 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","2.600.000
+TL"
+2.9,95 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","3.250.000
+TL"
+2.10,210 m²,5 + 1,100 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","9.750.000
+TL"
+2.11,80 m²,2 + 1,21 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.640.000
+TL"
+2.12,185 m²,5 + 2,45 Yaşında,İstanbul,"Fatih, Ayvansaray Mahallesi","9.000.000
+TL"
+2.13,110 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","3.500.000
+TL"
+2.14,150 m²,3 + 1,23 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","5.600.000
+TL"
+2.15,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","2.900.000
+TL"
+2.16,75 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","3.000.000
+TL"
+2.17,140 m²,3 + 1,38 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","4.900.000
+TL"
+2.18,75 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.200.000
+TL"
+2.19,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","2.100.000
+TL"
+2.20,100 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.450.000
+TL"
+2.21,85 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.800.000
+TL"
+2.22,120 m²,3 + 1,45 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","3.100.000
+TL"
+2.23,55 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.550.000
+TL"
+2.24,80 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.400.000
+TL"
+3.1,75 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.450.000
+TL"
+3.2,385 m²,6 + 6,30 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","12.450.000
+TL"
+3.3,155 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Aksaray Mahallesi","6.500.000
+TL"
+3.4,70 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.750.000
+TL"
+3.5,70 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.150.000
+TL"
+3.6,85 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.500.000
+TL"
+3.7,140 m²,3 + 1,15 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","10.500.000
+TL"
+3.8,250 m²,3 + 2,37 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","7.500.000
+TL"
+3.9,200 m²,3 + 2,Sıfır Bina,İstanbul,"Fatih, Seyyid Ömer Mahallesi","7.000.000
+TL"
+3.10,60 m²,1 + 1,32 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","1.750.000
+TL"
+3.11,75 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.100.000
+TL"
+3.12,65 m²,1 + 1,26 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","2.200.000
+TL"
+3.13,80 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.150.000
+TL"
+3.14,95 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.300.000
+TL"
+3.15,80 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.050.000
+TL"
+3.16,200 m²,3 + 1,Sıfır Bina,İstanbul,"Fatih, Seyyid Ömer Mahallesi","8.000.000
+TL"
+3.17,100 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.800.000
+TL"
+3.18,75 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.350.000
+TL"
+3.19,220 m²,10 + 3,450 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","5.600.000
+TL"
+3.20,80 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.750.000
+TL"
+3.21,165 m²,3 + 1,45 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","10.000.000
+TL"
+3.22,70 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","1.485.000
+TL"
+3.23,70 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.350.000
+TL"
+3.24,111 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","3.450.000
+TL"
+4.1,75 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.850.000
+TL"
+4.2,90 m²,2 + 1,20 Yaşında,İstanbul,"Fatih, Nişanca Mahallesi","1.650.000
+TL"
+4.3,90 m²,2 + 1,5 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","5.000.000
+TL"
+4.4,140 m²,4 + 1,31 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","3.450.000
+TL"
+4.5,130 m²,3 + 1,5 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","5.300.000
+TL"
+4.6,85 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.450.000
+TL"
+4.7,190 m²,3 + 2,50 Yaşında,İstanbul,"Fatih, Balat Mahallesi","7.900.000
+TL"
+4.8,64 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.100.000
+TL"
+4.9,75 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","4.450.000
+TL"
+4.10,85 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.750.000
+TL"
+4.11,290 m²,10 + 1,50 Yaşında,İstanbul,"Fatih, Ayvansaray Mahallesi","8.500.000
+TL"
+4.12,95 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","4.200.000
+TL"
+4.13,51 m²,6 + 3,30 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","8.000.000
+TL"
+4.14,180 m²,3 + 1,5 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","4.400.000
+TL"
+4.15,80 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.750.000
+TL"
+4.16,95 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.250.000
+TL"
+4.17,100 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.600.000
+TL"
+4.18,80 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.850.000
+TL"
+4.20,130 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","3.500.000
+TL"
+4.21,150 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","5.250.000
+TL"
+4.22,145 m²,3 + 1,26 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","5.200.000
+TL"
+4.23,300 m²,5 + 3,80 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","7.500.000
+TL"
+4.24,90 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","3.650.000
+TL"
+5.1,89 m²,8 + 4,25 Yaşında,İstanbul,"Fatih, Balat Mahallesi","10.500.000
+TL"
+5.2,95 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","25.000.000
+TL"
+5.3,150 m²,3 + 1,4 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","14.750.000
+TL"
+5.4,80 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.700.000
+TL"
+5.5,150 m²,4 + 1,Sıfır Bina,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","12.900.000
+TL"
+5.6,100 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","4.950.000
+TL"
+5.7,85 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.800.000
+TL"
+5.8,95 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.990.000
+TL"
+5.9,110 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","3.200.000
+TL"
+5.10,540 m²,12 + 6,Sıfır Bina,İstanbul,"Fatih, Zeyrek Mahallesi","32.000.000
+TL"
+5.11,200 m²,4 + 1,Sıfır Bina,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","17.500.000
+TL"
+5.12,100 m²,2 + 1,2 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","8.000.000
+TL"
+5.13,125 m²,8 + 8,45 Yaşında,İstanbul,"Fatih, Saraç İshak Mahallesi","17.000.000
+TL"
+5.14,75 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","3.800.000
+TL"
+5.15,100 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.200.000
+TL"
+5.16,190 m²,5 + 1,40 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","3.200.000
+TL"
+5.17,90 m²,2 + 1,37 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","2.950.000
+TL"
+5.18,65 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Atikali Mahallesi","2.400.000
+TL"
+5.19,75 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","1.150.000
+TL"
+5.20,85 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.830.000
+TL"
+5.21,110 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","2.000.000
+TL"
+5.22,70 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.100.000
+TL"
+5.23,130 m²,3 + 1,22 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","5.100.000
+TL"
+5.24,335 m²,8 + 1,35 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","9.700.000
+TL"
+6.1,90 m²,2 + 1,10 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","4.100.000
+TL"
+6.2,75 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.400.000
+TL"
+6.3,130 m²,3 + 1,32 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","3.850.000
+TL"
+6.4,93 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","7.850.000
+TL"
+6.5,95 m²,2 + 1,42 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.500.000
+TL"
+6.6,180 m²,4 + 1,25 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","5.500.000
+TL"
+6.7,250 m²,5 + 1,60 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","12.500.000
+TL"
+6.8,85 m²,2 + 1,5 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","4.500.000
+TL"
+6.9,110 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","2.800.000
+TL"
+6.10,92 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Cerrahpaşa Mahallesi","4.050.000
+TL"
+6.11,65 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Silivrikapı Mahallesi","3.600.000
+TL"
+6.12,75 m²,1 + 1,25 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","2.250.000
+TL"
+6.13,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.350.000
+TL"
+6.14,120 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","2.325.000
+TL"
+6.15,160 m²,3 + 1,16 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","5.150.000
+TL"
+6.16,75 m²,1 + 1,32 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.100.000
+TL"
+6.17,85 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.050.000
+TL"
+6.18,500 m²,14 + 1,40 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","9.000.000
+TL"
+6.19,45 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","1.000.000
+TL"
+6.20,170 m²,16 + 8,100 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","12.500.000
+TL"
+6.21,140 m²,3 + 1,25 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","4.900.000
+TL"
+6.22,44 m²,1 + 1,54 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.500.000
+TL"
+6.23,95 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.450.000
+TL"
+6.24,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","2.700.000
+TL"
+7.1,140 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","5.250.000
+TL"
+7.2,100 m²,2 + 1,42 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","2.450.000
+TL"
+7.3,80 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.500.000
+TL"
+7.4,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Yedikule Mahallesi","1.990.000
+TL"
+7.5,130 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.500.000
+TL"
+7.6,130 m²,3 + 1,6 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","6.000.000
+TL"
+7.7,130 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","5.500.000
+TL"
+7.8,125 m²,3 + 1,5 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","4.200.000
+TL"
+7.9,110 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","2.800.000
+TL"
+7.10,185 m²,3 + 1,8 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","6.000.000
+TL"
+7.11,140 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","5.000.000
+TL"
+7.12,100 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","9.500.000
+TL"
+7.13,70 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.350.000
+TL"
+7.14,80 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","2.450.000
+TL"
+7.15,90 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.400
+TL"
+7.16,130 m²,3 + 2,10 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","7.500.000
+TL"
+7.17,140 m²,3 + 1,10 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","5.300.000
+TL"
+7.18,130 m²,3 + 1,23 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","5.500.000
+TL"
+7.19,90 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.150.000
+TL"
+7.20,160 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","8.900.000
+TL"
+7.21,200 m²,3 + 2,Sıfır Bina,İstanbul,"Fatih, Şehremini Mahallesi","7.000.000
+TL"
+7.22,52 m²,1 + 1,40 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","7.000.000
+TL"
+7.23,80 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","2.075.000
+TL"
+7.24,55 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","1.500.000
+TL"
+8.1,160 m²,4 + 1,5 Yaşında,İstanbul,"Fatih, Yedikule Mahallesi","11.000.000
+TL"
+8.2,150 m²,3 + 1,45 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","4.950.000
+TL"
+8.3,240 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Balat Mahallesi","12.000.000
+TL"
+8.4,120 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.950.000
+TL"
+8.5,110 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","3.650.000
+TL"
+8.6,150 m²,8 + 4,Sıfır Bina,İstanbul,"Fatih, Şehsuvar Bey Mahallesi","35.000.000
+TL"
+8.7,85 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.950.000
+TL"
+8.8,200 m²,5 + 2,40 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","3.750.000
+TL"
+8.9,100 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","2.700.000
+TL"
+8.10,80 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","2.450.000
+TL"
+8.11,245 m²,5 + 1,35 Yaşında,İstanbul,"Fatih, Balat Mahallesi","14.500.000
+TL"
+8.12,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.100.000
+TL"
+8.13,100 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","4.450.000
+TL"
+8.14,175 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Muhsine Hatun Mahallesi","3.250.000
+TL"
+8.15,105 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","4.000.000
+TL"
+8.16,80 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","2.075.000
+TL"
+8.17,70 m²,8 + 4,25 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","15.000.000
+TL"
+8.18,100 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Yedikule Mahallesi","3.900.000
+TL"
+8.19,85 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.650.000
+TL"
+8.20,80 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.100.000
+TL"
+8.21,70 m²,1 + 1,40 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","13.000.000
+TL"
+8.22,45 m²,1 + 1,50 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.450.000
+TL"
+8.23,90 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.200.000
+TL"
+8.24,120 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","3.450.000
+TL"
+9.1,180 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","7.100.000
+TL"
+9.2,100 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.500.000
+TL"
+9.3,80 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","2.000.000
+TL"
+9.4,70 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.650.000
+TL"
+9.5,110 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","3.250.000
+TL"
+9.6,60 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","1.280.000
+TL"
+9.7,100 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Şehremini Mahallesi","5.750.000
+TL"
+9.8,75 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.200.000
+TL"
+9.9,70 m²,1 + 1,38 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.850.000
+TL"
+9.10,180 m²,4 + 1,27 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","5.500.000
+TL"
+9.11,140 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","4.995.000
+TL"
+9.12,80 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Yedikule Mahallesi","2.055.000
+TL"
+9.13,100 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.800.000
+TL"
+9.14,70 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.390.000
+TL"
+9.15,75 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","2.250.000
+TL"
+9.16,85 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.700.000
+TL"
+9.17,180 m²,4 + 2,35 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","2.975.000
+TL"
+9.18,50 m²,1 + 1,50 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","990.000
+TL"
+9.19,73 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","2.500.000
+TL"
+9.20,60 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.600.000
+TL"
+9.21,100 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","3.100.000
+TL"
+9.22,80 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.900.000
+TL"
+9.23,140 m²,3 + 1,Sıfır Bina,İstanbul,"Fatih, Ayvansaray Mahallesi","6.250.000
+TL"
+9.24,100 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.500.000
+TL"
+10.1,115 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.200.000
+TL"
+10.2,75 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.800.000
+TL"
+10.3,110 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Atikali Mahallesi","3.500.000
+TL"
+10.4,85 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","3.100.000
+TL"
+10.5,85 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.700.000
+TL"
+10.6,90 m²,2 + 1,26 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","1.500.000
+TL"
+10.7,80 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.580.000
+TL"
+10.8,60 m²,1 + 1,35 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","1.280.000
+TL"
+10.9,80 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.100.000
+TL"
+10.10,70 m²,1 + 1,45 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.600.000
+TL"
+10.11,85 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.450.000
+TL"
+10.12,120 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","2.450.000
+TL"
+10.13,186 m²,3 + 3,30 Yaşında,İstanbul,"Fatih, Balat Mahallesi","9.000.000
+TL"
+10.14,140 m²,3 + 1,25 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","5.000.000
+TL"
+10.15,77 m²,2 + 1,43 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","2.000.000
+TL"
+10.16,90 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.400.000
+TL"
+10.17,95 m²,2 + 1,13 Yaşında,İstanbul,"Fatih, İskenderpaşa Mahallesi","3.250.000
+TL"
+10.18,75 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","3.499.999
+TL"
+10.19,100 m²,3 + 1,21 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","4.200.000
+TL"
+10.20,95 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.535.000
+TL"
+10.21,250 m²,6 + 1,28 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","5.400.000
+TL"
+10.22,100 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.800.000
+TL"
+10.23,135 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","4.900.000
+TL"
+10.24,130 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.500.000
+TL"
+11.1,80 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","2.075.000
+TL"
+11.2,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.550.000
+TL"
+11.3,160 m²,3 + 1,45 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","6.500.000
+TL"
+11.4,70 m²,1 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.600.000
+TL"
+11.5,80 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.100.000
+TL"
+11.6,95 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Yavuz Sultan Selim Mahallesi","3.100.000
+TL"
+11.7,80 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","1.500.000
+TL"
+11.8,145 m²,4 + 1,43 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","6.250.000
+TL"
+11.9,85 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Atikali Mahallesi","5.000.000
+TL"
+11.10,110 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","3.300.000
+TL"
+11.11,77 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.500.000
+TL"
+11.12,140 m²,3 + 1,7 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","5.300.000
+TL"
+11.13,150 m²,4 + 1,40 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","7.299.000
+TL"
+11.14,130 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Aksaray Mahallesi","3.650.000
+TL"
+11.15,135 m²,3 + 1,17 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","4.800.000
+TL"
+11.16,75 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","1.150.000
+TL"
+11.17,90 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","3.200.000
+TL"
+11.18,90 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.750.000
+TL"
+11.19,130 m²,4 + 1,40 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","5.500.000
+TL"
+11.20,110 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","3.200.000
+TL"
+11.21,80 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Nişanca Mahallesi","2.300.000
+TL"
+11.22,90 m²,1 + 1,21 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.500.000
+TL"
+11.23,85 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.250.000
+TL"
+11.24,115 m²,3 + 1,38 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","4.450.000
+TL"
+12.1,75 m²,1 + 1,40 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.675.000
+TL"
+12.2,110 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","3.900.000
+TL"
+12.3,145 m²,3 + 1,26 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","5.200.000
+TL"
+12.4,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.350.000
+TL"
+12.5,201 m²,9 + 1,70 Yaşında,İstanbul,"Fatih, Kalenderhane Mahallesi","9.990.000
+TL"
+12.6,70 m²,1 + 1,21 Yaşında,İstanbul,"Fatih, Ayvansaray Mahallesi","1.390.000
+TL"
+12.7,65 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Atikali Mahallesi","1.200.000
+TL"
+12.8,65 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","2.500.000
+TL"
+12.9,163 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","7.700.000
+TL"
+12.10,135 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","4.750.000
+TL"
+12.11,85 m²,1 + 1,20 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.600.000
+TL"
+12.12,185 m²,4 + 2,75 Yaşında,İstanbul,"Fatih, Balat Mahallesi","12.000.000
+TL"
+12.13,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","2.350.000
+TL"
+12.14,120 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","4.900.000
+TL"
+12.15,85 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.900.000
+TL"
+12.16,374 m²,7 + 1,32 Yaşında,İstanbul,"Fatih, Hoca Gıyasettin Mahallesi","15.000.000
+TL"
+12.17,70 m²,1 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.100.000
+TL"
+12.18,100 m²,3 + 1,40 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.600.000
+TL"
+12.19,80 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Saraç İshak Mahallesi","2.500.000
+TL"
+12.20,170 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Balat Mahallesi","8.750.000
+TL"
+12.21,70 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.480.000
+TL"
+12.22,130 m²,3 + 1,50 Yaşında,İstanbul,"Fatih, Topkapı Mahallesi","6.200.000
+TL"
+12.23,85 m²,2 + 1,Sıfır Bina,İstanbul,"Fatih, Topkapı Mahallesi","6.500.000
+TL"
+12.24,85 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Zeyrek Mahallesi","2.200.000
+TL"
+13.1,85 m²,2 + 1,38 Yaşında,İstanbul,"Fatih, Nişanca Mahallesi","2.000.000
+TL"
+13.2,105 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Atikali Mahallesi","1.600.000
+TL"
+13.3,110 m²,3 + 1,35 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.550.000
+TL"
+13.4,85 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","2.050.000
+TL"
+13.5,130 m²,3 + 1,28 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","6.800.000
+TL"
+13.6,70 m²,2 + 1,25 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.750.000
+TL"
+13.7,70 m²,2 + 1,10 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.100.000
+TL"
+13.8,80 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.090.000
+TL"
+13.9,90 m²,2 + 1,45 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","3.000.000
+TL"
+13.10,110 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","3.750.000
+TL"
+13.11,65 m²,1 + 1,31 Yaşında,İstanbul,"Fatih, Derviş Ali Mahallesi","1.650.000
+TL"
+13.12,125 m²,3 + 1,36 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.800.000
+TL"
+13.13,90 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.750.000
+TL"
+13.14,90 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","3.000.000
+TL"
+13.15,50 m²,1 + 1,45 Yaşında,İstanbul,"Fatih, Koca Mustafapaşa Mahallesi","1.500.000
+TL"
+13.16,95 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","3.850.000
+TL"
+13.17,75 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Molla Gürani Mahallesi","2.600.000
+TL"
+13.18,75 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","2.100.000
+TL"
+13.19,99 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Aksaray Mahallesi","3.500.000
+TL"
+13.20,160 m²,3 + 1,25 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","8.750.000
+TL"
+13.21,90 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","3.200.000
+TL"
+13.22,80 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Mevlanakapı Mahallesi","1.900.000
+TL"
+13.23,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Karagümrük Mahallesi","2.150.000
+TL"
+13.24,125 m²,3 + 1,6 Yaşında,İstanbul,"Fatih, Hırka-I Şerif Mahallesi","4.990.000
+TL"
+14.1,75 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Akşemsettin Mahallesi","3.390.000
+TL"
+14.2,90 m²,2 + 1,50 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","2.500.000
+TL"
+14.3,97 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.250.000
+TL"
+14.4,110 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","3.200.000
+TL"
+14.5,135 m²,3 + 1,42 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","4.500.000
+TL"
+14.6,250 m²,5 + 1,31 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","7.500.000
+TL"
+14.7,65 m²,1 + 1,17 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","1.650.000
+TL"
+14.8,240 m²,6 + 1,15 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","19.500.000
+TL"
+14.9,90 m²,2 + 1,35 Yaşında,İstanbul,"Fatih, Haseki Sultan Mahallesi","2.650.000
+TL"
+14.10,70 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.325.000
+TL"
+14.11,230 m²,3 + 3,Sıfır Bina,İstanbul,"Fatih, Ayvansaray Mahallesi","26.000.000
+TL"
+14.12,130 m²,3 + 1,31 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","5.000.000
+TL"
+14.13,85 m²,2 + 1,31 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","2.550.000
+TL"
+14.14,85 m²,2 + 2,42 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","2.900.000
+TL"
+14.15,60 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Şehremini Mahallesi","1.600.000
+TL"
+14.16,90 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Sümbül Efendi Mahallesi","2.500.000
+TL"
+14.17,130 m²,3 + 1,20 Yaşında,İstanbul,"Fatih, Ali Kuşçu Mahallesi","5.000.000
+TL"
+14.18,140 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Balat Mahallesi","7.500.000
+TL"
+14.19,80 m²,2 + 1,32 Yaşında,İstanbul,"Fatih, Seyyid Ömer Mahallesi","1.900.000
+TL"
+14.20,110 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Silivrikapı Mahallesi","2.900.000
+TL"
+14.21,100 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Aksaray Mahallesi","3.000.000
+TL"
+14.22,70 m²,2 + 1,30 Yaşında,İstanbul,"Fatih, Küçük Ayasofya Mahallesi","4.250.000
+TL"
+14.23,110 m²,3 + 1,30 Yaşında,İstanbul,"Fatih, Balat Mahallesi","14.000.000
+TL"
+14.24,85 m²,2 + 1,40 Yaşında,İstanbul,"Fatih, Cerrahpaşa Mahallesi","1.500.000
+TL"
